@@ -1,6 +1,6 @@
 # BotiumToysAudit
 
-Google activity - Conduct a security audit for Botium Toys
+Google activity - Conduzir uma auditoria a BotiumToys
 
 1 - Analyze the audit scope, goals, and risk assessment
 
